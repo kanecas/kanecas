@@ -1,1 +1,5 @@
 # kanecas
+```
+$ yarn
+$ yarn dev
+```
